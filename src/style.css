@@ -12,8 +12,8 @@
 
 .hello {
   font-family: "PT Root UI";
-  font-size: 38px;
-  color: white;
+  font-size: 64px;
+  color: yellow;
   background: url("./img/umbrella.jpg");
 }
 
